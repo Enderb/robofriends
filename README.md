@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Robofriends React App
 
-Creating an app to learn how to use React
+[Robofriends app](http://enderb-robofriends.surge.sh/)
